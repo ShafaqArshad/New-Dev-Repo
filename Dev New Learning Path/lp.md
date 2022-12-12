@@ -6,4 +6,5 @@ isPremium: true
 isNew: true
 isAvailable: true
 scenarioCount: 1
-scenarios: []
+scenarios: 
+  - Dev New Scenario 1
